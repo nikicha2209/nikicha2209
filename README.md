@@ -1,6 +1,6 @@
 ### Hi, I am Nikolay Nikolov! 👋
 - 🌱 I’m currently learning C# at Software University (SoftUni)
-- 📫 How to reach me: nikicha08@gmail.com
+- 📫 How to reach me: nikolaynikolov2209@gmail.com
 - 😄 Pronouns: he/him
   
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100050362485415)
