@@ -1,5 +1,5 @@
 ### Hi, I am Nikolay Nikolov! 👋
-- 🌱 I’m currently learning C# at Software University (SoftUni)
+- 🌱 I’m currently learning C# and JavaScript at Software University (SoftUni)
 - 📫 How to reach me: nikolaynikolov2209@gmail.com
 - 😄 Pronouns: he/him
   
