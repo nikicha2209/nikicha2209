@@ -1,8 +1,6 @@
 ### Hi, I'm Nikolay Nikolov! 👋
 
-- 🌱 I’m currently learning C# and JavaScript at Software University (SoftUni)
 - 📫 How to reach me: [nikolaynikolov2209@gmail.com](mailto:nikolaynikolov2209@gmail.com)
-- 😄 Pronouns: he/him
 - 🌍 Location: Ruse, Bulgaria
 
 [![Facebook](https://img.shields.io/badge/Facebook-00B2FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100050362485415)
