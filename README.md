@@ -4,7 +4,7 @@
 - 🌍 Location: Ruse, Bulgaria
 
 [![Facebook](https://img.shields.io/badge/Facebook-00B2FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100050362485415)
-[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikicha2209/)
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n._nikolovvv/)
 
 ### 📊 GitHub Stats
 
